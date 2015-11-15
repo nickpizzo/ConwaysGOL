@@ -1,0 +1,13 @@
+div {
+  width: 20px;
+  height: 20px;
+  border: 1px solid;
+}
+
+.row {
+  display: flex;
+}
+
+.addblack {
+  background-color: #000;
+}
